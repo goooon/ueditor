@@ -79,7 +79,7 @@
 <script src="diy.js"></script>
 <script src="base64.js"></script>
 <script>
-	var meditor,mminder;
+	var meditor,mminder,mjson;
 	angular.module('kityminderDemo', ['kityminderEditor'])
 	.controller('MainController', function($scope) {
 		$scope.initEditor = function(editor, minder) {
@@ -87,12 +87,12 @@
 			window.minder = minder;
 			meditor = editor;
 			mminder = minder;
+			mminder.importJson(mjson);
 		};
 	});
 </script>
 <script>
 	function encode(json) {
-
 		var paper = mminder.getPaper(),
 		paperTransform = paper.shapeNode.getAttribute('transform'),
 		svgXml,
@@ -139,14 +139,24 @@ function handleDialogOk(){
 	//当前打开dialog的编辑器实例
 	console.log('handleDialogOk');
 	editor = dialog.editor;
-	data = mminder.exportData('svg',{width:100,height:200});
 	json = mminder.exportJson();
 	svg = encode(json);
 	console.log(svg);
-	editor.execCommand('insertHtml','<img src="data:image/svg+xml;base64,' + codeHandler.encode(svg,"base64") + '">');
+	var b = new Base64(); 
+	strjson = b.encode(JSON.stringify(json));
+	console.log(strjson);
+	editor.execCommand('insertHtml','<img class="edui-fake-svg" data="' + strjson + '"' + ' src="data:image/svg+xml;base64,' + b.encode(svg) + '"/>');
 	dialog.close();
 };
 dialog = window.parent.$EDITORUI[window.frameElement.id.replace( /_iframe$/, '' )];
 dialog.onok = handleDialogOk;
+var img = dialog.editor.selection.getRange().getClosedNode();
+if (img) {
+	value = img.attributes.data.value;
+	console.log(value);
+	var b = new Base64();  
+	json = b.decode(value);
+	mjson = JSON.parse(json);
+}
 </script>
 </html>

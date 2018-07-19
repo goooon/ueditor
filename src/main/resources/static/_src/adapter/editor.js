@@ -180,6 +180,7 @@
                 },
                 _onImgEditButtonClick:function (name) {
                     this.hide();
+                    console.log("_onImgEditButtonClick");
                     editor.ui._dialogs[name] && editor.ui._dialogs[name].open();
 
                 },
@@ -267,6 +268,9 @@
                         }
                         if (img.className.indexOf("edui-faked-music") != -1) {
                             dialogName = "musicDialog"
+                        }
+                        if (img.className.indexOf("edui-fake-svg") != -1){
+                            dialogName = "insertmindmapDialog"
                         }
                         if (img.src.indexOf("http://maps.google.com/maps/api/staticmap") != -1) {
                             dialogName = "gmapDialog"

@@ -857,12 +857,41 @@
     UE.commands['displaynote'] = {
         execCommand : function( cmdName, opt ) {
             editor = opt.editor;
+            console.log(opt);
             dialog = new editorui.Dialog(utils.extend({
                 iframeUrl:editor.ui.mapUrl('~/dialogs/confirm/confirm.html'),
                 editor:editor,
                 className:'edui-for-confirm',
                 title:editor.getLang("checkNote"),
                 holdScroll: cmdName === 'insertimage',
+                fullscreen: /charts|preview/.test(cmdName),
+                closeDialog:editor.getLang("closeDialog")
+            }, true ? {
+                buttons:[
+                    {
+                        className:'edui-okbutton',
+                        label:editor.getLang("ok"),
+                        editor:editor,
+                        onclick:function () {
+                            dialog.close(true);
+                        }
+                    }
+                ]
+            } : {}));
+            dialog.render();
+            dialog.open();
+
+        }
+    };
+    UE.commands['updateSvg'] = {
+        execCommand : function( cmdName, opt ) {
+            editor = opt.editor;
+            dialog = new editorui.Dialog(utils.extend({
+                iframeUrl:editor.ui.mapUrl('~/dialogs/mindmap/mindmap.html'),
+                editor:editor,
+                className:'edui-for-insertmindmap',
+                title:editor.getLang("checkNote"),
+                holdScroll: cmdName === 'insertmindmap',
                 fullscreen: /charts|preview/.test(cmdName),
                 closeDialog:editor.getLang("closeDialog")
             }, true ? {

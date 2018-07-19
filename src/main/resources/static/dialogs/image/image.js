@@ -13,6 +13,7 @@
         searchImage;
 
     window.onload = function () {
+        console.log("onload");
         initTabs();
         initAlign();
         initButtons();
@@ -53,6 +54,7 @@
         switch (id) {
             case 'remote':
                 remoteImage = remoteImage || new RemoteImage();
+                console.log("remoteImage");
                 break;
             case 'upload':
                 setAlign(editor.getOpt('imageInsertAlign'));
@@ -144,6 +146,7 @@
 
     /* 在线图片 */
     function RemoteImage(target) {
+        console.log("RemoteImage"+target);
         this.container = utils.isString(target) ? document.getElementById(target) : target;
         this.init();
     }
@@ -217,6 +220,7 @@
             }
         },
         setImage: function(img){
+            console.log("img:"+img);
             /* 不是正常的图片 */
             if (!img.tagName || img.tagName.toLowerCase() != 'img' && !img.getAttribute("src") || !img.src) return;
 

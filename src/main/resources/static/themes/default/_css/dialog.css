@@ -175,8 +175,8 @@
 }
 /*insertmindmap-dialog*/
 .edui-default .edui-for-insertmindmap .edui-dialog-content {
-    width: 620px;
-    height: 400px;
+    width: 1000px;
+    height: 600px;
     overflow: hidden;
 }
 /*background-dialog*/
