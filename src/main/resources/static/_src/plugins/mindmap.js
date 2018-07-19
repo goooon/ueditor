@@ -28,7 +28,7 @@
  * ```
  */
 
-UE.commands['addMindMap'] = {
+UE.commands['insertmindmap'] = {
     execCommand:function (cmd, opt) {
 
         opt = utils.isArray(opt) ? opt : [opt];

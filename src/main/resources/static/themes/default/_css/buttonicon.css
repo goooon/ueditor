@@ -423,3 +423,6 @@
 .edui-default  .edui-for-rmnote .edui-icon {
     background: url(../images/rmnote.png) no-repeat 2px 3px!important;
 }
+.edui-default  .edui-for-insertmindmap .edui-icon {
+    background: url(../images/addnote.png) no-repeat 2px 3px!important;
+}

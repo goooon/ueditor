@@ -36,6 +36,7 @@
         'insertimage':'~/dialogs/image/image.html',
         'link':'~/dialogs/link/link.html',
         'addnote':'~/dialogs/note/note.html',
+        'insertmindmap':'~/dialogs/mindmap/mindmap.html',
         'spechars':'~/dialogs/spechars/spechars.html',
         'searchreplace':'~/dialogs/searchreplace/searchreplace.html',
         'map':'~/dialogs/map/map.html',
@@ -185,7 +186,7 @@
     var dialogBtns = {
         noOk:['searchreplace', 'help', 'spechars', 'webapp','preview'],
         ok:['attachment', 'anchor', 'link','insertimage', 'map', 'gmap', 'insertframe', 'wordimage',
-            'insertvideo', 'insertframe', 'edittip', 'edittable', 'edittd', 'scrawl', 'template', 'music', 'background', 'charts','addnote']
+            'insertvideo', 'insertframe', 'edittip', 'edittable', 'edittd', 'scrawl', 'template', 'music', 'background', 'charts','addnote','insertmindmap']
     };
 
     for (var p in dialogBtns) {

@@ -32,6 +32,7 @@
             'plugins/font.js',
             'plugins/link.js',
             'plugins/note.js',
+            'plugins/mindmap.js',
             'plugins/iframe.js',
             'plugins/scrawl.js',
             'plugins/removeformat.js',
