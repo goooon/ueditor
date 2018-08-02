@@ -1,5 +1,15 @@
-'use strict';
-
+//f'use strict';
+/*
+npm install grunt --save-dev
+npm install grunt-contrib-jshint --save-dev
+npm install grunt-text-replace  --save-dev
+npm install grunt-contrib-concat  --save-dev
+npm install grunt-contrib-cssmin  --save-dev
+npm install grunt-contrib-uglify  --save-dev
+npm install grunt-contrib-copy  --save-dev
+npm install grunt-transcoding  --save-dev
+npm install grunt-contrib-clean  --save-dev
+*/
 module.exports = function (grunt) {
 
     var fs = require("fs"),
@@ -39,7 +49,7 @@ module.exports = function (grunt) {
 
         },
         packageJson = grunt.file.readJSON('package.json'),
-        server = grunt.option('server') || 'php',
+        server = grunt.option('server') || 'jsp',
         encode = grunt.option('encode') || 'utf8',
         disDir = "dist/",
         banner = '/*!\n * UEditor\n * version: ' + packageJson.name + '\n * build: <%= new Date() %>\n */\n\n';
@@ -47,7 +57,7 @@ module.exports = function (grunt) {
     //init
     (function () {
 
-        server = typeof server === "string" ? server.toLowerCase() : 'php';
+        server = typeof server === "string" ? server.toLowerCase() : 'jsp';
         encode = typeof encode === "string" ? encode.toLowerCase() : 'utf8';
 
         disDir = 'dist/' + encode + '-' + server + '/';

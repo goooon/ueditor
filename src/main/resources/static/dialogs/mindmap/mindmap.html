@@ -23,20 +23,9 @@
 			height: 100%;
 			overflow: hidden;
 		}
-		h1.editor-title {
-			background: #393F4F;
-			color: white;
-			margin: 0;
-			height: 40px;
-			font-size: 14px;
-			line-height: 40px;
-			font-family: 'Hiragino Sans GB', 'Arial', 'Microsoft Yahei';
-			font-weight: normal;
-			padding: 0 20px;
-		}
 		div.minder-editor-container {
 			position: absolute;
-			top: 40px;
+			top: 0px;
 			bottom: 0;
 			left: 0;
 			right: 0;
@@ -44,11 +33,6 @@
 	</style>
 </head>
 <body ng-app="kityminderDemo" ng-controller="MainController">
-<h1 class="editor-title">
-	<a href="https://github.com/fex-team/kityminder-editor" style="color: #fff;" target="_blank">
-		KityMinder Editor - Powered By FEX
-	</a>
-</h1>
 <kityminder-editor on-init="initEditor(editor, minder)" data-theme="fresh-green"></kityminder-editor>
 <iframe name="frameFile" style="display:none;"></iframe>
 </body>
@@ -141,10 +125,10 @@ function handleDialogOk(){
 	editor = dialog.editor;
 	json = mminder.exportJson();
 	svg = encode(json);
-	console.log(svg);
+	//console.log(svg);
 	var b = new Base64(); 
 	strjson = b.encode(JSON.stringify(json));
-	console.log(strjson);
+	//console.log(strjson);
 	editor.execCommand('insertHtml','<img class="edui-fake-svg" data="' + strjson + '"' + ' src="data:image/svg+xml;base64,' + b.encode(svg) + '"/>');
 	dialog.close();
 };
@@ -153,7 +137,7 @@ dialog.onok = handleDialogOk;
 var img = dialog.editor.selection.getRange().getClosedNode();
 if (img) {
 	value = img.attributes.data.value;
-	console.log(value);
+	//console.log(value);
 	var b = new Base64();  
 	json = b.decode(value);
 	mjson = JSON.parse(json);

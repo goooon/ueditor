@@ -91,7 +91,7 @@
 
 	// 导入
 	window.onload = function() {
-		var fileInput = document.getElementById('fileInput');
+	    /*var fileInput = document.getElementById('fileInput');
 
 		fileInput.addEventListener('change', function(e) {
 			var file = fileInput.files[0],
@@ -120,7 +120,7 @@
 				});
 			}
 			reader.readAsText(file);
-		});
+		});*/
 	}
 
 })();

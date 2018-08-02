@@ -343,7 +343,7 @@
 
                     if (html) {
                         popup.getDom('content').innerHTML = html;
-                        popup.anchorEl = img || link;
+                        popup.anchorEl = img || link || addnote;
                         popup.showAnchor(popup.anchorEl);
                     } else {
                         popup.hide();
