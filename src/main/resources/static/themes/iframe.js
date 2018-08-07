@@ -8,8 +8,10 @@ function updateSVG(element){
 }
 
 function displayDialog(title){
-    editor = UE.getEditor('editor');
-    editor.execCommand("displayNote",{title:title,editor:editor});
+    //editor = UE.getEditor('editor');
+    //editor.execCommand("displayNote",{title:title,editor:editor});
+    console.log("批注");
+    window.notifiyDialog("批注",title);
 }
 function updateSVGDialog(element){
     editor = UE.getEditor('editor');

@@ -11,6 +11,7 @@ UE.plugins.xssFilter = function() {
 
 	function filter(node) {
 
+		console.log("filter");
 		var tagName = node.tagName;
 		var attrs = node.attrs;
 
