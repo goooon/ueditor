@@ -489,3 +489,9 @@
     getUEBasePath: getUEBasePath
   };
 })();
+
+function displayNoteDialog(title){
+  //editor = UE.getEditor('editor');
+  //editor.execCommand("displayNote",{title:title,editor:editor});
+  window.notifiyDialog("批注",title);
+}

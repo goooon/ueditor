@@ -2,148 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4c959f8-53df-403e-8c6e-42b813f3c835" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_examples/addCustomizeButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_examples/addCustomizeButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_examples/completeDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_examples/completeDemo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_examples/customizeToolbarUIDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_examples/customizeToolbarUIDemo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_examples/editor_api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_examples/editor_api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/insertcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/insertcode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/parse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/autosave.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/autosave.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/editor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/editorui.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/editorui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.defaultoptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.defaultoptions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/EventBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/EventBase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/Range.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/Range.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/Selection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/Selection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/domUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/domUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/dtd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/dtd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/filternode.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/filternode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/filterword.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/filterword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/htmlparser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/htmlparser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/keymap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/keymap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/loadconfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/loadconfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/localstorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/localstorage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/editor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/anchor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/anchor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autofloat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autofloat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autoheight.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autoheight.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autolink.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autolink.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autosave.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autosave.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autosubmit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autosubmit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autotypeset.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autotypeset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autoupload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autoupload.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/basestyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/basestyle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/blockquote.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/blockquote.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/catchremoteimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/catchremoteimage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/cleardoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/cleardoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/contextmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/contextmenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/convertcase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/convertcase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/copy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/customstyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/customstyle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/defaultfilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/defaultfilter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/directionality.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/directionality.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/dragdrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/dragdrop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/elementpath.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/elementpath.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/enterkey.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/enterkey.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/fiximgclick.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/fiximgclick.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/font.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/font.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/formatmatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/formatmatch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/horizontal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/horizontal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/iframe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/iframe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/image.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/indent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/indent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertcode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/inserthtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/inserthtml.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertparagraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertparagraph.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/justify.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/justify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/keystrokes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/keystrokes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/lineheight.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/lineheight.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/link.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/link.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/music.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/music.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/pagebreak.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/pagebreak.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/paragraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/paragraph.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/paste.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/paste.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/preview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/print.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/print.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/puretxtpaste.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/puretxtpaste.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/removeformat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/removeformat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/rowspacing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/rowspacing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/scrawl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/scrawl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/searchreplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/searchreplace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/section.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/section.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/selectall.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/selectall.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/serverparam.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/serverparam.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/shortcutmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/shortcutmenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/simpleupload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/simpleupload.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/snapscreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/snapscreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/source.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.action.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.cmds.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.cmds.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.core.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/time.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/time.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/undo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/undo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/webapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/webapp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/wordcount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/wordcount.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/wordimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/wordimage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/autotypesetbutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/autotypesetbutton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/autotypesetpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/autotypesetpicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/breakline.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/breakline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/cellalignpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/cellalignpicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/colorbutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/colorbutton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/colorpicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/combox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/combox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/dialog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/mask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/mask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/menubutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/menubutton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/multiMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/multiMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/pastepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/pastepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/separator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/separator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/shortcutmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/shortcutmenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/splitbutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/splitbutton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/stateful.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/stateful.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/tablebutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/tablebutton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/tablepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/tablepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/toolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/toolbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/uibase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/uibase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/uiutils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/uiutils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/attachment/attachment.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/attachment/attachment.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/attachment/attachment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/attachment/attachment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/image/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/image/image.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/link/link.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/link/link.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/scrawl/scrawl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/scrawl/scrawl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/searchreplace/searchreplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/searchreplace/searchreplace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/video/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/video/video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/wordimage/wordimage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/wordimage/wordimage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/themes/default/_css/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/themes/default/_css/popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/third-party/video-js/video-js.swf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/third-party/video-js/video-js.swf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/ueditor.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/ueditor.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/ueditor.parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/ueditor.parse.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,11 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="editor_api.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor_api.js">
+      <file leaf-file-name="Editor.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+            <state relative-caret-position="45">
+              <caret line="430" column="18" lean-forward="true" selection-start-line="430" selection-start-column="18" selection-end-line="430" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,11 +31,10 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="editor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/editor.js">
+      <file leaf-file-name="EventBase.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/core/EventBase.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14925">
-              <caret line="995" column="16" selection-start-line="995" selection-start-column="16" selection-end-line="995" selection-end-column="16" />
+            <state>
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -190,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xssFilter.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="xssFilter.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -222,25 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iframe.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/themes/iframe.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="editorui.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/editorui.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6360">
               <caret line="426" column="6" selection-start-line="426" selection-start-column="6" selection-end-line="426" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/message.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -251,7 +98,12 @@
     <findStrings>
       <find>getBasePath</find>
       <find>setContent</find>
+      <find>iframecss</find>
+      <find>options.iframeCssUrl</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/resources/static</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -268,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/static/themes/iframe.js" />
         <option value="$PROJECT_DIR$/src/main/resources/static/_src/plugins/image.js" />
         <option value="$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js" />
       </list>
     </option>
   </component>
@@ -371,6 +224,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ueditor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -395,7 +257,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ueditor_dist" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="show.run.dashboard.notification" value="false" />
@@ -481,12 +343,12 @@
       <workItem from="1531908405920" duration="4652000" />
       <workItem from="1533658746293" duration="4594000" />
       <workItem from="1533665080451" duration="404000" />
-      <workItem from="1533701037551" duration="686000" />
+      <workItem from="1533701037551" duration="2575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10945000" />
+    <option name="totallyTimeSpent" value="12834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -510,12 +372,13 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865085" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865085" weight="0.32911393" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30329195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30329195" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -523,7 +386,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,23 +450,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/ueditor/upload/Base64Uploader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web.demo.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/jsp/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -778,15 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/contextmenu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5595">
@@ -828,9 +664,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/themes/iframe.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/editor.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/message.js">
@@ -875,8 +708,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/editor.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/core/EventBase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/themes/iframe.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/dist/utf8-jsp/ueditor.all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="7583" column="19" lean-forward="true" selection-start-line="7576" selection-start-column="10" selection-end-line="7583" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="430" column="18" lean-forward="true" selection-start-line="430" selection-start-column="18" selection-end-line="430" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

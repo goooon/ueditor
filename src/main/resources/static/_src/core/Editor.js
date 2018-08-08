@@ -440,16 +440,12 @@
           "body{margin:8px;font-family:sans-serif;font-size:16px;}" +
           //设置段落间距
           "p{margin:5px 0;}</style>" +
-          (options.iframeCssUrl
-            ? "<link rel='stylesheet' type='text/css' href='" +
-                utils.unhtml(options.iframeCssUrl) +
-                "'/>"
-            : "") +
-          (options.initialStyle
-            ? "<style>" + options.initialStyle + "</style>"
-            : "") +
+          (options.iframeCssUrl? "<link rel='stylesheet' type='text/css' href='" + utils.unhtml(options.iframeCssUrl) + "'/>": "") +
+         // (options.iframeJsUrl ? "<script type='text/javascript' src='" + utils.unhtml(options.iframeJsUrl) + "'></script>" : "") +
+          (options.initialStyle ? "<style>" + options.initialStyle + "</style>" : "") +
           "</head>" +
-          "<body class='view' ></body>" +
+          //"<body class='view' ></body>" +
+          "<body class=\'view page\' contenteditable=\'true\'></body>" +
           "<script type='text/javascript' " +
           (ie ? "defer='defer'" : "") +
           " id='_initialScript'>" +
@@ -457,12 +453,10 @@
           me.uid +
           "'];editor._setup(document);},0);" +
           "var _tmpScript = document.getElementById('_initialScript');_tmpScript.parentNode.removeChild(_tmpScript);" +
+          "function displayNote(title){parent.displayNoteDialog(title);}" +
+          "function updateSVG(element){parent.updateSVGDialog(element);}" +
+          "function updateSVGDialog(element){editor = UE.getEditor(\'editor\');editor.execCommand(\'updateSvg\',{element:element,editor:editor});} " + 
           "</script>" +
-          (options.iframeJsUrl
-            ? "<script type='text/javascript' src='" +
-                utils.unhtml(options.iframeJsUrl) +
-                "'></script>"
-            : "") +
           "</html>";
 
         container.appendChild(
