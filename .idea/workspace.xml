@@ -2,11 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4c959f8-53df-403e-8c6e-42b813f3c835" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/themes/default/images/img-cracked.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_examples/addCustomizeButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_examples/addCustomizeButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_examples/completeDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_examples/completeDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_examples/customizeToolbarUIDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_examples/customizeToolbarUIDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_examples/editor_api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_examples/editor_api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/insertcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/insertcode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_parse/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_parse/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/autosave.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/autosave.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/editorui.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/editorui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/adapter/message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.defaultoptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.defaultoptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/EventBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/EventBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/Range.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/Range.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/Selection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/Selection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/domUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/domUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/dtd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/dtd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/filternode.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/filternode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/filterword.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/filterword.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/htmlparser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/htmlparser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/keymap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/keymap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/loadconfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/loadconfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/localstorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/localstorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/core/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/core/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/anchor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/anchor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autofloat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autofloat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autoheight.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autoheight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autolink.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autolink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autosave.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autosave.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autosubmit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autosubmit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autotypeset.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autotypeset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autoupload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/autoupload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/basestyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/basestyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/blockquote.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/blockquote.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/catchremoteimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/catchremoteimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/cleardoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/cleardoc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/contextmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/contextmenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/convertcase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/convertcase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/copy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/customstyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/customstyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/defaultfilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/defaultfilter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/directionality.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/directionality.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/dragdrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/dragdrop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/elementpath.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/elementpath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/enterkey.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/enterkey.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/fiximgclick.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/fiximgclick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/font.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/font.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/formatmatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/formatmatch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/horizontal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/horizontal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/iframe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/iframe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/indent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/indent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertcode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/inserthtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/inserthtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertparagraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/insertparagraph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/justify.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/justify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/keystrokes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/keystrokes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/lineheight.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/lineheight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/link.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/music.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/music.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/pagebreak.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/pagebreak.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/paragraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/paragraph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/paste.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/paste.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/print.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/print.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/puretxtpaste.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/puretxtpaste.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/removeformat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/removeformat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/rowspacing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/rowspacing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/scrawl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/scrawl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/searchreplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/searchreplace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/section.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/section.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/selectall.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/selectall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/serverparam.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/serverparam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/shortcutmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/shortcutmenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/simpleupload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/simpleupload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/snapscreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/snapscreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/source.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.cmds.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.cmds.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.core.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/table.sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/time.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/undo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/undo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/webapp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/webapp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/wordcount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/wordcount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/wordimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/wordimage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/themes/iframe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/themes/iframe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/autotypesetbutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/autotypesetbutton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/autotypesetpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/autotypesetpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/breakline.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/breakline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/cellalignpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/cellalignpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/colorbutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/colorbutton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/colorpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/combox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/combox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/mask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/mask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/menubutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/menubutton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/multiMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/multiMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/pastepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/pastepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/separator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/separator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/shortcutmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/shortcutmenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/splitbutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/splitbutton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/stateful.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/stateful.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/tablebutton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/tablebutton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/tablepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/tablepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/toolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/toolbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/uibase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/uibase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/_src/ui/uiutils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/_src/ui/uiutils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/attachment/attachment.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/attachment/attachment.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/attachment/attachment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/attachment/attachment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/image/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/image/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/link/link.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/link/link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/scrawl/scrawl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/searchreplace/searchreplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/video/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/video/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dialogs/wordimage/wordimage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/themes/default/_css/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/themes/default/_css/popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/third-party/video-js/video-js.swf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/third-party/video-js/video-js.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/ueditor.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/ueditor.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/ueditor.parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/ueditor.parse.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,19 +158,8 @@
       <file leaf-file-name="editor_api.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor_api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-74">
+            <state relative-caret-position="1410">
               <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Editor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2160">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -46,14 +172,10 @@
       <file leaf-file-name="editor.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="856" column="16" selection-start-line="856" selection-start-column="7" selection-end-line="856" selection-end-column="16" />
+            <state relative-caret-position="14925">
+              <caret line="995" column="16" selection-start-line="995" selection-start-column="16" selection-end-line="995" selection-end-column="16" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,52 +184,54 @@
       <file leaf-file-name="ueditor.parse.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/ueditor.parse.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="675">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/api.js">
+      <file leaf-file-name="xssFilter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="165">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/image.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="128" column="15" selection-start-line="128" selection-start-column="15" selection-end-line="128" selection-end-column="15" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iframe.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/iframe.js">
+      <file leaf-file-name="codebase.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../open.source/codebase.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="iframe.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/themes/iframe.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="editorui.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="editorui.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/editorui.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5100">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="6360">
+              <caret line="426" column="6" selection-start-line="426" selection-start-column="6" selection-end-line="426" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -115,8 +239,8 @@
       <file leaf-file-name="message.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/message.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="840">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -142,6 +266,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/themes/iframe.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/_src/plugins/image.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js" />
       </list>
     </option>
   </component>
@@ -175,278 +301,6 @@
       <path value="$PROJECT_DIR$/src/main/resources/static/dist/utf8-jsp/dialogs/mindmap/bower_components/kity/package.json" />
       <path value="$PROJECT_DIR$/src/main/resources/static/dist/utf8-jsp/dialogs/mindmap/bower_components/kityminder-core/package.json" />
       <path value="$PROJECT_DIR$/src/main/resources/static/dist/utf8-jsp/dialogs/mindmap/bower_components/marked/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/abbrev/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/ajv/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/align-text/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/argparse/node_modules/underscore.string/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/argparse/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/array-find-index/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/asn1/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/assert-plus/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/async/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/asynckit/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/aws-sign2/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/aws4/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/bcrypt-pbkdf/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/browserify-zlib/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/browserify-zlib/test/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/buffer-from/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/builtin-modules/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/camelcase-keys/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/camelcase/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/caseless/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/center-align/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/clean-css/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/cli/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/cliui/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/co/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/coffee-script/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/colors/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/combined-stream/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/commander/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/concat-stream/node_modules/isarray/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/concat-stream/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/concat-stream/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/concat-stream/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/console-browserify/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/core-util-is/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/currently-unhandled/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/cycle/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/dashdash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/date-now/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/dateformat/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/decamelize/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/delayed-stream/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/domhandler/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/ecc-jsbn/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/error-ex/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/es6-promise/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/escape-string-regexp/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/esprima/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/eventemitter2/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/exit/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/extend/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/extract-zip/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/extsprintf/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/eyes/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/fast-deep-equal/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/fast-json-stable-stringify/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/fd-slicer/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/figures/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/find-up/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/findup-sync/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/findup-sync/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/findup-sync/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/findup-sync/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/forever-agent/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/form-data/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/fs-extra/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/fs.realpath/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/get-stdin/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/getobject/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/getpass/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/graceful-fs/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-contrib-clean/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-contrib-concat/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-contrib-copy/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-contrib-cssmin/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-contrib-jshint/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-contrib-uglify/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-log-utils/node_modules/colors/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-log-utils/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-log-utils/node_modules/underscore.string/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-log-utils/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-log/node_modules/colors/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-log/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-log/node_modules/underscore.string/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-log/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-util/node_modules/async/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-util/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-util/node_modules/which/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-legacy-util/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-lib-contrib/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-text-replace/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt-transcoding/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/node_modules/async/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/node_modules/colors/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/node_modules/graceful-fs/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/node_modules/which/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/grunt/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/gzip-size/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/har-schema/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/har-validator/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/has-ansi/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/hasha/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/hooker/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/hosted-git-info/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/htmlparser2/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/http-signature/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/indent-string/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/inflight/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/is-arrayish/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/is-buffer/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/is-builtin-module/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/is-finite/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/is-stream/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/is-typedarray/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/is-utf8/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/isarray/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/isexe/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/isstream/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/js-yaml/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/jsbn/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/jshint/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/json-schema-traverse/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/json-schema/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/json-stringify-safe/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/jsonfile/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/jsprim/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/kew/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/klaw/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/lazy-cache/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/load-json-file/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/longest/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/loud-rejection/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/lru-cache/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/map-obj/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/maxmin/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/meow/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/meow/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/mime-types/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/mkdirp/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/nopt/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/normalize-package-data/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/number-is-nan/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/oauth-sign/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/object-assign/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/once/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/pako/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/parse-json/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/path-exists/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/path-type/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/pend/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/performance-now/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/phantom/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/phantomjs-prebuilt/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/pify/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/pinkie-promise/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/pinkie/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/pretty-bytes/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/process-nextick-args/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/progress/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/punycode/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/qs/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/read-pkg-up/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/read-pkg/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/redent/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/repeat-string/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/repeating/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/request-progress/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/request/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/right-align/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/rimraf/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/safer-buffer/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/shelljs/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/sigmund/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/signal-exit/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/source-map/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/spdx-correct/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/spdx-exceptions/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/spdx-expression-parse/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/spdx-license-ids/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/split/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/sshpk/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/stack-trace/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/strip-bom/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/strip-indent/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/strip-json-comments/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/throttleit/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/through/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/tough-cookie/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/trim-newlines/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/tunnel-agent/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/tweetnacl/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/typedarray/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/uglify-js/node_modules/async/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/uglify-js/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/uglify-to-browserify/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/underscore.string/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/underscore/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/unicode-5.2.0/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/uri-path/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/uuid/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/validate-npm-package-license/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/verror/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/which/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/window-size/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/async/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/async/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/babel-runtime/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/codependency/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/color-convert/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/color-name/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/color-string/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/colornames/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/colorspace/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/core-js/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/diagnostics/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/enabled/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/env-variable/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/json-stringify-safe/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/kuler/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/le_node/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/logform/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/one-time/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/reconnect-core/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/stack-trace/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/text-hex/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/triple-beam/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/winston-transport/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/node_modules/winston/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/winston/scratch/1280/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/wordwrap/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/wrappy/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/yargs/node_modules/camelcase/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/yargs/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/yauzl/package.json" />
-      <path value="$PROJECT_DIR$/src/main/resources/static/node_modules/zlib-browserify/package.json" />
       <path value="$PROJECT_DIR$/src/main/resources/static/package.json" />
     </packageJsonPaths>
   </component>
@@ -462,7 +316,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -517,34 +371,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="_src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ueditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="_src" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ueditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ueditor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -556,8 +382,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -569,7 +395,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../temp/ueditor-test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="show.run.dashboard.notification" value="false" />
@@ -653,19 +479,21 @@
       <option name="presentableId" value="Default" />
       <updated>1531908401327</updated>
       <workItem from="1531908405920" duration="4652000" />
-      <workItem from="1533658746293" duration="4095000" />
+      <workItem from="1533658746293" duration="4594000" />
+      <workItem from="1533665080451" duration="404000" />
+      <workItem from="1533701037551" duration="686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9356000" />
+    <option name="totallyTimeSpent" value="10945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008095" side_tool="true" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50134915" side_tool="true" visible="true" weight="0.32911393" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -682,10 +510,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991905" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865085" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2698327" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30329195" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -760,8 +588,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/jsp/controller.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/ueditor/upload/Base64Uploader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -926,9 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-525">
           <caret line="575" column="67" selection-start-line="575" selection-start-column="67" selection-end-line="575" selection-end-column="67" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -952,25 +775,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17370">
           <caret line="1163" selection-start-line="1163" selection-end-line="1163" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/core/Editor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2160">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -978,9 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5595">
           <caret line="376" column="25" selection-start-line="376" selection-start-column="25" selection-end-line="376" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1002,57 +812,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/editor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="856" column="16" selection-start-line="856" selection-start-column="7" selection-end-line="856" selection-end-column="16" />
+        <state relative-caret-position="14925">
+          <caret line="995" column="16" selection-start-line="995" selection-start-column="16" selection-end-line="995" selection-end-column="16" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/ueditor.parse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor_api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
+        <state relative-caret-position="1410">
           <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/themes/iframe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/editor.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/message.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/adapter/editorui.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5100">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="6360">
+          <caret line="426" column="6" selection-start-line="426" selection-start-column="6" selection-end-line="426" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/ueditor.parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../open.source/codebase.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="128" column="15" selection-start-line="128" selection-start-column="15" selection-end-line="128" selection-end-column="15" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/_src/plugins/xssFilter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
