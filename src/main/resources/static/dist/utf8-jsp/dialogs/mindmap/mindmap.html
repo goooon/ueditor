@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>KityMinder Editor - Powered By FEX</title>
+
+	<link href="favicon.ico" type="image/x-icon" rel="shortcut icon">
+
+	<!-- bower:css -->
+	<link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.css" />
+	<link rel="stylesheet" href="./bower_components/codemirror/lib/codemirror.css" />
+	<link rel="stylesheet" href="./bower_components/hotbox/hotbox.css" />
+	<link rel="stylesheet" href="./bower_components/kityminder-core/dist/kityminder.core.css" />
+	<link rel="stylesheet" href="./bower_components/color-picker/dist/color-picker.min.css" />
+	<!-- endbower -->
+
+	<link rel="stylesheet" href="kityminder.editor.min.css">
+
+	<style>
+		html, body {
+			margin: 0;
+			padding: 0;
+			height: 100%;
+			overflow: hidden;
+		}
+		div.minder-editor-container {
+			position: absolute;
+			top: 0px;
+			bottom: 0;
+			left: 0;
+			right: 0;
+		}
+	</style>
+</head>
+<body ng-app="kityminderDemo" ng-controller="MainController">
+<kityminder-editor on-init="initEditor(editor, minder)" data-theme="fresh-green"></kityminder-editor>
+<iframe name="frameFile" style="display:none;"></iframe>
+</body>
+
+<!-- bower:js -->
+<script src="./bower_components/jquery/dist/jquery.js"></script>
+<script src="./bower_components/bootstrap/dist/js/bootstrap.js"></script>
+<script src="./bower_components/angular/angular.js"></script>
+<script src="./bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+<script src="./bower_components/codemirror/lib/codemirror.js"></script>
+<script src="./bower_components/codemirror/mode/xml/xml.js"></script>
+<script src="./bower_components/codemirror/mode/javascript/javascript.js"></script>
+<script src="./bower_components/codemirror/mode/css/css.js"></script>
+<script src="./bower_components/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+<script src="./bower_components/codemirror/mode/markdown/markdown.js"></script>
+<script src="./bower_components/codemirror/addon/mode/overlay.js"></script>
+<script src="./bower_components/codemirror/mode/gfm/gfm.js"></script>
+<script src="./bower_components/angular-ui-codemirror/ui-codemirror.js"></script>
+<script src="./bower_components/marked/lib/marked.js"></script>
+<script src="./bower_components/kity/dist/kity.min.js"></script>
+<script src="./bower_components/hotbox/hotbox.js"></script>
+<script src="./bower_components/json-diff/json-diff.js"></script>
+<script src="./bower_components/kityminder-core/dist/kityminder.core.min.js"></script>
+<script src="./bower_components/color-picker/dist/color-picker.min.js"></script>
+<!-- endbower -->
+
+<script src="kityminder.editor.min.js"></script>
+<script src="diy.js"></script>
+<script src="base64.js"></script>
+<script>
+	var meditor,mminder,mjson;
+	angular.module('kityminderDemo', ['kityminderEditor'])
+	.controller('MainController', function($scope) {
+		$scope.initEditor = function(editor, minder) {
+			window.editor = editor;
+			window.minder = minder;
+			meditor = editor;
+			mminder = minder;
+			mminder.importJson(mjson);
+		};
+	});
+</script>
+<script>
+	function encode(json) {
+		var paper = mminder.getPaper(),
+		paperTransform = paper.shapeNode.getAttribute('transform'),
+		svgXml,
+		$svg,
+
+		renderContainer = mminder.getRenderContainer(),
+		renderBox = renderContainer.getRenderBox(),
+		transform = renderContainer.getTransform(),
+		width = renderBox.width,
+		height = renderBox.height,
+		padding = 20;
+
+		paper.shapeNode.setAttribute('transform', 'translate(0.5, 0.5)');
+		svgXml = paper.container.innerHTML;
+		paper.shapeNode.setAttribute('transform', paperTransform);
+
+		$svg = $(svgXml).filter('svg');
+		$svg.attr({
+			width: width + padding * 2 | 0,
+			height: height + padding * 2 | 0,
+			style: 'font-family: Arial, "Microsoft Yahei",  "Heiti SC"; background: ' + minder.getStyle('background')
+		});
+		$svg[0].setAttribute('viewBox', [renderBox.x - padding | 0,
+			renderBox.y - padding | 0,
+			width + padding * 2 | 0,
+			height + padding * 2 | 0
+		].join(' '));
+
+		// need a xml with width and height
+		svgXml = $('<div></div>').append($svg).html();
+
+		svgXml = $('<div></div>').append($svg).html();
+
+		// svg 含有 &nbsp; 符号导出报错 Entity 'nbsp' not defined
+		svgXml = svgXml.replace(/&nbsp;/g, '&#xa0;');
+
+		// svg 含有 &nbsp; 符号导出报错 Entity 'nbsp' not defined
+		return svgXml;
+	};
+function handleDialogOk(){
+	var parent = window.parent;
+    //dialog对象
+    dialog = parent.$EDITORUI[window.frameElement.id.replace( /_iframe$/, '' )];
+	//当前打开dialog的编辑器实例
+	console.log('handleDialogOk');
+	editor = dialog.editor;
+	json = mminder.exportJson();
+	svg = encode(json);
+	//console.log(svg);
+	var b = new Base64(); 
+	strjson = b.encode(JSON.stringify(json));
+	//console.log(strjson);
+	editor.execCommand('insertHtml','<img class="edui-fake-svg" data="' + strjson + '"' + ' src="data:image/svg+xml;base64,' + b.encode(svg) + '"/>');
+	dialog.close();
+};
+dialog = window.parent.$EDITORUI[window.frameElement.id.replace( /_iframe$/, '' )];
+dialog.onok = handleDialogOk;
+var img = dialog.editor.selection.getRange().getClosedNode();
+if (img) {
+	value = img.attributes.data.value;
+	//console.log(value);
+	var b = new Base64();  
+	json = b.decode(value);
+	mjson = JSON.parse(json);
+}
+</script>
+</html>
